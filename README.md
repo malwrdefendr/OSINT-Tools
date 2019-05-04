@@ -17,3 +17,4 @@ virustotal.com
 <b>Resources:</b><br>
 https://www.osinttechniques.com/osint-tools.html<br>
 https://inteltechniques.com/menu.html<br>
+https://osintframework.com
