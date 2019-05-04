@@ -12,7 +12,8 @@ haveibeenpwned.com<br>
 builtwith.com<br>
 cymon.io<br>
 otx.alienvault.com<br>
-virustotal.com
+virustotal.com<br>
+pgp.mit.edu
 
 <b>Resources:</b><br>
 https://www.osinttechniques.com/osint-tools.html<br>
