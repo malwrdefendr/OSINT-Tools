@@ -1,4 +1,4 @@
-Popular:<br>
+<b>Popular:</b><br>
 censys.io<br>
 shodan.io<br>
 securitytrails.com<br>
@@ -14,6 +14,6 @@ cymon.io<br>
 otx.alienvault.com<br>
 virustotal.com
 
-Resources:<br>
+<b>Resources:</b><br>
 https://www.osinttechniques.com/osint-tools.html<br>
 https://inteltechniques.com/menu.html<br>
