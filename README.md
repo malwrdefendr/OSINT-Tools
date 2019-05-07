@@ -13,7 +13,13 @@ builtwith.com<br>
 cymon.io<br>
 otx.alienvault.com<br>
 virustotal.com<br>
-pgp.mit.edu
+pgp.mit.edu<br>
+<br>
+<b>Frameworks:</b><br>
+Firece DNS<br>
+Recon-NG<br>
+SpiderFoot<br>
+TheHarvestor<br>
 
 <b>Resources:</b><br>
 https://www.osinttechniques.com/osint-tools.html<br>
